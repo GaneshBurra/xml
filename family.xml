@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<!DOCTYPE family SYSTEM "family.dtd">
+<family>
+    <person name ="Joe Miller" gender="male"
+                 type="father" id="id_123.456.789"/>
+                 <person name="Josette Miller" gender="female"
+                 type="girl" id="id_123.456.987" />
+                 <person name="Josette Milleriee" gender="female"
+                 type="mother" id="id_123.456.97" age="age_23"/>
+</family>

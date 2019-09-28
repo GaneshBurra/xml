@@ -1,0 +1,43 @@
+class {
+    background-color:burlywood;
+    width: 100%;
+    text-align: center;
+}
+student{
+    display:block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+student rollno{
+    display: block;
+    margin-bottom: 60pt;
+    margin-bottom: 0em;
+}
+firstname
+{
+    font-size: 25px;
+    display: inline-block;
+    color: blue;
+    margin-left: 50px;
+}
+lastname{
+    font-size: 21px;
+    display: inline-block;
+    color:rebeccapurple;
+    margin-left: 50px;
+
+}
+nickname
+{
+    font-size: 28px;
+    display: inline-block;
+    color:greenyellow;
+    margin-left: 80px;
+}
+marks
+{
+    font-size: 28px;
+    display: inline-block;
+    color:black;
+    margin-left: 60px;
+}

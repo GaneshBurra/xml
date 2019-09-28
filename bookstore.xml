@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+<name>A Song of Ice and Fire</name>
+<author>George R.R. Martin</author>
+<language>English</language>
+<genre>Epic fantasy</genre>
+</book>
+<book>
+<name>A Song of Maleshpalya</name>
+<author>Ajith</author>
+<language>Tamil</language>
+<genre>Epic Maleshpalya</genre>
+</book>
+<book>
+<name>A Song of narmada</name>
+<author>Nikhil</author>
+<language>kannada</language>
+<genre>Epic history</genre>
+</book>
+</bookstore>
